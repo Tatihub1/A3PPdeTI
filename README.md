@@ -18,10 +18,20 @@ O sistema possui as seguintes funcionalidades:
 
 Cadastrar os produtos (nome,  quantidade, ID, preço e categoria).
 Cadastrar categorias (nome e id).
+Relatório de produtos.
+Movimentação de produtos.
+Aviso de estoque baixo.
 
 🚀 Executando o Projeto
 Abra o projeto no NetBeans IDE.
--se de que as dependências estão configuradas corretamente.
+Certifique-se de que as dependências estão configuradas corretamente.
 Execute o projeto.
+
 👨‍💻 Contribuidores
+Camille
+Guilherme 
+Hellen
+Melissa
+Tatiane 
+
 
